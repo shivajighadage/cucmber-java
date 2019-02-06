@@ -15,7 +15,7 @@ Or download a ZIP of master manually and expand the contents someplace on your s
 # Prerequisites
 
 * Make sure maven installed and enviorment path set for windows. Check maven using below command.
-> mvn -version from command prompt
+> mvn -version
 
 # How to run
 
